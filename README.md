@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanjivanipatil16
-- 👀 I’m interested in ...web  developer
+- 👀 I’m interested in ...Full Stack Developer
 - 🌱 I’m currently learning ...web developer
 - 📫 How to reach me ...sanjivanipatil980@gmail.com
 
